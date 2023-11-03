@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **cmd644/cmd644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning DNS, Web Tech, etc.
+- 🔭 I’m currently working on making a DNS/VPN Infrastructure using Cloud Hosting.
+- 📫 How to reach me: contact@cdez.pw
